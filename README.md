@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in:
   - Data science
+  - Business intelligence/analytics
   - Complex systems
   - Applied mathematics
 - 🌱 I’m currently learning:
