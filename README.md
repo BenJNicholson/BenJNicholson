@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ben!
+Hi, I’m Ben! 
+
 - 👀 I’m interested in:
   - Data science
   - Business intelligence/analytics
@@ -6,7 +7,7 @@
   - Applied mathematics
 - 🌱 I’m currently learning:
   - F#
-  - Go
+  - Writing interpreters/compilers following [Crafting Interpreters](https://craftinginterpreters.com). Progress posted [here](https://github.com/BenJNicholson/crafting-interpreters).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benjamin-n-58a542280/)
 - 😄 Pronouns: he/him/his
 
