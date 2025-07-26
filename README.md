@@ -7,7 +7,6 @@ Hi, I’m Ben!
   - Applied mathematics
 - 🌱 I’m currently learning:
   - F#
-  - Writing interpreters/compilers following [Crafting Interpreters](https://craftinginterpreters.com). Progress posted [here](https://github.com/BenJNicholson/crafting-interpreters).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benjamin-n-58a542280/)
 - 😄 Pronouns: he/him/his
 
