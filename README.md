@@ -7,6 +7,7 @@ Hi, I’m Ben!
   - Applied mathematics
 - 🌱 I’m currently learning:
   - F#
+  - Gleam
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benjamin-n-58a542280/)
 - 😄 Pronouns: he/him/his
 
