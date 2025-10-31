@@ -2,12 +2,10 @@ Hi, I’m Ben!
 
 - 👀 I’m interested in:
   - Data science
-  - Business intelligence/analytics
   - Complex systems
   - Applied mathematics
 - 🌱 I’m currently learning:
-  - F#
-  - Gleam
+  - Gleam (see current project [here](https://github.com/BenJNicholson/glep))
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/benjamin-n-58a542280/)
 - 😄 Pronouns: he/him/his
 
